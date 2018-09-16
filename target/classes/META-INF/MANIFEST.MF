@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: leave
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Thiruparan
+Implementation-Vendor-Id: com.sgic
+Build-Jdk: 1.8.0_171
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/leave
+Created-By: Maven Integration for Eclipse
+
